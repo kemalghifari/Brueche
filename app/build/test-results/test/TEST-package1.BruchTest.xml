@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="package1.BruchTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-19T07:26:38" hostname="Muhammads-MacBook-Pro.local" time="0.035">
+  <properties/>
+  <testcase name="first test" classname="package1.BruchTest" time="0.035"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
